@@ -1,4 +1,18 @@
-## Hi there 👋
+# Hi, I am Muhammad Manzoor Murshed 👋
+
+## 🚀 Projects
+| Project | Live Demo | Tech |
+|---|---|---|
+| Static Portfolio | [Live](https://muhammadmanzoormurshed.github.io/beautiful-portfolio/) | HTML, CSS |
+
+## 🛠️ Skills
+HTML | CSS | TailwindCSS | DaisyUI | JavaScript | React
+
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/manzoor~murshed/) | [Email](mailto:manzoormurshedctg@gmail.com)
+
+
+
 
 <!--
 **MuhammadManzoorMurshed/MuhammadManzoorMurshed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
