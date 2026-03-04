@@ -4,6 +4,7 @@
 | Project | Live Demo | Tech |
 |---|---|---|
 | Static Portfolio | [Live](https://muhammadmanzoormurshed.github.io/beautiful-portfolio/) | HTML, CSS |
+| Static New Year Offer | [Live](https://muhammadmanzoormurshed.github.io/new-year-offer/) | HTML, CSS |
 
 ## 🛠️ Skills
 HTML | CSS | TailwindCSS | DaisyUI | JavaScript | React
