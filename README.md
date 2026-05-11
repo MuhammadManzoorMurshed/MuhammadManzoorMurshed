@@ -3,12 +3,13 @@
 ## 🚀 Projects
 | Project | Live Demo | Tech |
 |---|---|---|
-| Static Portfolio | [Live](https://muhammadmanzoormurshed.github.io/beautiful-portfolio/) | HTML, CSS |
-| Static New Year Offer | [Live](https://muhammadmanzoormurshed.github.io/new-year-offer/) | HTML, CSS |
-| Static Landing Launchpad | [Live](https://muhammadmanzoormurshed.github.io/landing-launchpad/) | HTML, CSS |
+| Web Dev Portfolio (Responsive) | [Live](https://responsive-web-dev-port.netlify.app/) | HTML, CSS |
+| Landing Launchpad (Static) | [Live](https://muhammadmanzoormurshed.github.io/landing-launchpad/) | HTML, CSS |
+| New Year Offer (Static) | [Live](https://muhammadmanzoormurshed.github.io/new-year-offer/) | HTML, CSS |
+| Static Portfolio (Static) | [Live](https://muhammadmanzoormurshed.github.io/beautiful-portfolio/) | HTML, CSS |
 
 ## 🛠️ Skills
-HTML | CSS | TailwindCSS | DaisyUI | JavaScript | React
+HTML | CSS | TailwindCSS | DaisyUI | JavaScript | React | Node.js | Express.js | MongoDB
 
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/manzoor~murshed/) | [Email](mailto:manzoormurshedctg@gmail.com)
