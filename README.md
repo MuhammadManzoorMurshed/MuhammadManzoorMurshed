@@ -3,6 +3,7 @@
 ## 🚀 Projects
 | Project | Live Demo | Tech |
 |---|---|---|
+| Influencer Gear (Responsive) | [Live](https://influencer-gear-bd-ctg.netlify.app/) | HTML, CSS |
 | G3 Architecture (Responsive) | [Live](https://g3-architecture-bd.netlify.app/) | HTML, CSS |
 | Web Dev Portfolio (Responsive) | [Live](https://responsive-web-dev-port.netlify.app/) | HTML, CSS |
 | Landing Launchpad (Static) | [Live](https://muhammadmanzoormurshed.github.io/landing-launchpad/) | HTML, CSS |
