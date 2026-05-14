@@ -3,6 +3,7 @@
 ## 🚀 Projects
 | Project | Live Demo | Tech |
 |---|---|---|
+| Legal Solution Resources (Responsive) | [Live](https://legal-solution-resources-bd.netlify.app/) | HTML, Tailwind CSS |
 | Influencer Gear (Responsive) | [Live](https://influencer-gear-bd-ctg.netlify.app/) | HTML, CSS |
 | G3 Architecture (Responsive) | [Live](https://g3-architecture-bd.netlify.app/) | HTML, CSS |
 | Web Dev Portfolio (Responsive) | [Live](https://responsive-web-dev-port.netlify.app/) | HTML, CSS |
