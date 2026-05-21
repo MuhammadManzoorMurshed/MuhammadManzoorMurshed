@@ -3,6 +3,7 @@
 ## 🚀 Projects
 | Project | Live Demo | Tech |
 |---|---|---|
+| Flower Market (Responsive) | [Live](https://flower-market-bd.netlify.app/) | HTML, Tailwind CSS |
 | Legal Solution Resources (Responsive) | [Live](https://legal-solution-resources-bd.netlify.app/) | HTML, Tailwind CSS |
 | Faugei (Responsive) | [Live](https://faugei.netlify.app/) | HTML, CSS |
 | Influencer Gear (Responsive) | [Live](https://influencer-gear-bd-ctg.netlify.app/) | HTML, CSS |
