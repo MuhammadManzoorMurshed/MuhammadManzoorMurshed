@@ -3,6 +3,7 @@
 ## 🚀 Projects
 | Project | Live Demo | Tech |
 |---|---|---|
+| Tea House (Responsive) | [Live](https://my-tea-house-bd.netlify.app/) | HTML, Tailwind CSS |
 | Flower Market (Responsive) | [Live](https://flower-market-bd.netlify.app/) | HTML, Tailwind CSS |
 | Legal Solution Resources (Responsive) | [Live](https://legal-solution-resources-bd.netlify.app/) | HTML, Tailwind CSS |
 | Faugei (Responsive) | [Live](https://faugei.netlify.app/) | HTML, CSS |
