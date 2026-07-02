@@ -1,7 +1,7 @@
 # Hi, I am Muhammad Manzoor Murshed 👋
 
 ## 🚀 Projects
-| Project | Live Demo | Tech |https://payoo-bd.netlify.app/
+| Project | Live Demo | Tech |
 |---|---|---|
 | Payoo (Responsive) | [Live](https://payoo-bd.netlify.app/) | HTML, Tailwind CSS, JavaScript |
 | Tea House (Responsive) | [Live](https://my-tea-house-bd.netlify.app/) | HTML, Tailwind CSS |
