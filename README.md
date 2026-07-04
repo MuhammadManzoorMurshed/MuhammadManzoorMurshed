@@ -3,6 +3,7 @@
 ## 🚀 Projects
 | Project | Live Demo | Tech |
 |---|---|---|
+| Emergency Hotline (Responsive) | [Live](https://hotline-bd.netlify.app/) | HTML, Tailwind CSS, JavaScript |
 | Payoo (Responsive) | [Live](https://payoo-bd.netlify.app/) | HTML, Tailwind CSS, JavaScript |
 | Tea House (Responsive) | [Live](https://my-tea-house-bd.netlify.app/) | HTML, Tailwind CSS |
 | Flower Market (Responsive) | [Live](https://flower-market-bd.netlify.app/) | HTML, Tailwind CSS |
