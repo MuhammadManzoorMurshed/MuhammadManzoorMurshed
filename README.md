@@ -3,6 +3,7 @@
 ## 🚀 Projects
 | Project | Live Demo | Tech |
 |---|---|---|
+| WarmPaws BD (Responsive) | [Live](https://warmpaws-bd.web.app/) | HTML, Tailwind CSS, DaisyUI, JavaScript, React, React Router, Axios, Firebase Authentication, Framer Motion |
 | Emergency Hotline (Responsive) | [Live](https://hotline-bd.netlify.app/) | HTML, Tailwind CSS, JavaScript |
 | Payoo (Responsive) | [Live](https://payoo-bd.netlify.app/) | HTML, Tailwind CSS, JavaScript |
 | Tea House (Responsive) | [Live](https://my-tea-house-bd.netlify.app/) | HTML, Tailwind CSS |
